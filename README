@@ -1,0 +1,13 @@
+Remarks:
+
+Dropdown Menu: Daily, weekly and monthly options are offered to the user. When these options are changed, the form is automatically resubmitted.
+
+Graphic HTML: The dynamically created chart according to the selected period is displayed on the page.
+
+{$trafficGraphHtml}: Graph data created by Hook and transferred to the tpl file.
+
+Summary
+
+Hook Function: By obtaining the port information connected to the customer's service, it creates the daily, weekly or monthly chart URL according to the user's selection.
+ClientArea: The chart is displayed in the client panel according to the selected period. You can switch between graphics using the dropdown selection area.
+With this method, you can enable users to view the traffic graph according to certain periods in the WHMCS customer panel.
