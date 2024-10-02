@@ -1,3 +1,5 @@
+
+
 ### Remarks:
 
 **Dropdown Menu:** Daily, weekly and monthly options are offered to the user. When these options are changed, the form is automatically resubmitted.
@@ -50,3 +52,9 @@ In the clientareaproductdetails.tpl file, we can add a period selection field to
        <li> {$trafficGraphHtml}</li>
     </div>
     </ul>
+
+## Screenshot
+
+![Screenshot](https://i.ibb.co/TWKtDgk/Screenshot-3.jpg)
+
+![Screenshot](https://i.ibb.co/5FW9rTj/Screenshot-1.jpg)
