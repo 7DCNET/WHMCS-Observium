@@ -53,7 +53,11 @@ In the clientareaproductdetails.tpl file, we can add a period selection field to
     </div>
     </ul>
 
+Please add a custom field named PORT to the server or hosting service as seen in the first picture.
+
 ## Screenshot
+
+![Screenshot](https://i.ibb.co/GkGx2vx/Screenshot-4.jpg)
 
 ![Screenshot](https://i.ibb.co/TWKtDgk/Screenshot-3.jpg)
 
